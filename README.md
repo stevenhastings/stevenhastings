@@ -4,21 +4,17 @@
 
 
 
-- 🔭 I am currently working on the Wild Hunt **The Most Dangerous Game: 'job'**
+- 🔭 I am currently working on TimbreLabs.dev: a Github for Musicians. . . Not Like Splice**
 
-- 🌱 I’m currently learning DASP **Learning through building from scratch.**
+- 🌱 I’m currently learning Digital Audio Segmentation Processing: **Learning through building from scratch.**
 
-- 👯 Looking to collaborate on anything [I'll be there](justcallme.i'llbethere)
+- 👯 Looking to collaborate on anything and everything I can make myself useful on. 
 
 - 👨‍💻 All of my projects are available at [timbrelabs.dev/portfolio](timbrelabs.dev/portfolio)
 
-- 📝 I regularly write articles on [Philosophical Neural Network Architecture](Philosophical Neural Network Architecture)
-
-- 💬 Ask me about your thoughts are you own **360Capture SDK from Facebook & Quaternions**
+- 💬 Ask me about  **360Capture SDK from Facebook & Quaternions**
 
 - 📫 How to reach me **stevenhastings@timbrelabs.dev**
-
-- ⚡ Fun fact **anything you didn't already know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
