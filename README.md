@@ -1,7 +1,6 @@
 ![the official channel of](https://user-images.githubusercontent.com/59450769/179199368-42b984f4-7596-496c-98f5-5b4288128bcd.gif)
-<h1 align="center">Hi 👋, I'm Steven Hastings</h1>
-<h3 align="center">A Data Science Debutant from the North American Midwest</h3>
 
+<h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
 
 - 🔭 I am currently working on TimbreLabs.dev: a Github for Musicians. . . Not Like Splice**
