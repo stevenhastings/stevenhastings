@@ -1,5 +1,4 @@
-![the official channel of](https://user-images.githubusercontent.com/59450769/179199368-42b984f4-7596-496c-98f5-5b4288128bcd.gif)
-
+![MasterHead](https://www.canva.com//design//DAFG6A1hT50//aUdfJOS5GDs7Q0jakMYejg//view)
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
