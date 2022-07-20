@@ -1,4 +1,5 @@
-![MasterHead](https://www.canva.com//design//DAFG6A1hT50//aUdfJOS5GDs7Q0jakMYejg//view)
+![MasterHead](![image](https://user-images.githubusercontent.com/59450769/179925675-7494ee3d-be93-47d5-978a-ae844c436e7b.png)
+
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
