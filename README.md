@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFG6A1hT50/aUdfJOS5GDs7Q0jakMYejg/view)]
+[![Welcome to GitHub](https://raw.githubusercontent.com/stevenhastings/stevenhastings/main/Welcome%20to%20the%20Github.gif)]
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
