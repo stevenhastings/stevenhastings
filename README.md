@@ -1,19 +1,20 @@
-[![Welcome to GitHub](https://raw.githubusercontent.com/stevenhastings/stevenhastings/main/Welcome%20to%20the%20Github.gif)]
+![Welcome to GitHub](https://raw.githubusercontent.com/stevenhastings/stevenhastings/main/Welcome%20to%20the%20Github.gif)
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
 
-- 🔭 I am currently working on TimbreLabs.dev: a Github for Musicians. . . Not Like Splice**
+- 🔭 I am currently working on building an ios application (with Windows Virtual Machine) ![image](https://user-images.githubusercontent.com/59450769/180278652-f1e22c7b-d8ac-4c6d-8dae-b29c08337708.png) called Tamber Tapes: (phonetic spelling ["TAM - BER"]) It'll be akin to a Github for Musicians. . . Not Like Splice!!! The main idea is to encourage artists to test themselves against all genre types, randomly and without pause.  If they really posess a musical spirit then they should thrive and hopefully enbolden others of meeker stances to do the same. Music was always meant to be shared. Not just for the listener but for the creator as well. FACE THE MUSIC**
 
-- 🌱 I’m currently learning Digital Audio Segmentation Processing: **Learning through building from scratch.**
+- 🌱 I’m currently learning about Digital Audio Segmentation Processing (DASP) & Mel-frequency cepstrum coefficients (MFCC): **Learning through building from scratch.**
 
-- 👯 Looking to collaborate on anything and everything I can make myself useful on. 
+- 👯 Looking to collaborate on anything and everything I can make myself useful on. My specialties are; thinking obtusely, passionate amounts of time invested (especially when working with others who really believe in what they're doing). . . I'd say that last bit is a 'no-brainer' but, it's not obvious to me anymore who cares and who merely pretends to. Technical: Python, Numpy, Pandas, most of Scikit-Learn, and am very quickly falling for the Keras library and it's 💕documentation💕.  My scores are very quickly rising in regards to my functional coding as brought on by ceaseless General Code Assessments and all in all I am finding that the older I get the quicker I learn. Which is good because everything else seems to just slow down or fall apart.   
 
-- 👨‍💻 All of my projects are available at [timbrelabs.dev/portfolio](timbrelabs.dev/portfolio)
+- 👨‍💻 All of my projects are available on  <!--[timbrelabs.dev/portfolio](timbrelabs.dev/portfolio)--> github.com/stevenhastings and I try to record their development to post on my [YouTube](https://www.youtube.com/channel/UCBMTM9vYAefh_b4eCWwz1sQ) channel "Data Days"
 
-- 💬 Ask me about  **360Capture SDK from Facebook & Quaternions**
+- 💬 Ask me about  **360Capture SDK from Facebook, cube maps, point clouds, or Quaternions. . . Go ahead ask me! Not a scam! I really do enjoy talking about whatever it is. Unless it's talking s**t that topic has no place in my corpus' model:) Oh, yea, I have a lot of experience in Natural Language Processing. Mostly with spaCy but also with scikit-learn for speedier workflows and my RegeX gets stronger each day I go golfing.  I love messing around with Neural Networks especially the generative kind. I don't claim to know the math behind any of these things, really but I still read the white papers and still keep drunk-dialing the 3blue1brown guy. . . "Call me back Grant Sanderson!" I'm kidding I'm completely sober when I harass that man;) back to the topic of not knowing but continually doing. It's a philosophy/work-ethic of mine since I don't believe I would have ever started anything if I didn't already not know about it. . ? I think that makes sense. The goal is to reach a point where the memory becomes implicit. READING MATERIALS: [Ebbinghaus's Forgetting Curve](https://en.wikipedia.org/wiki/Forgetting_curve), [Hebb's Postulate(1949)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6212519/#:~:text=Hebb's%20(1949)%20theory%20postulated%20that,and%20memory%20as%20studied%20by), and for you audiodidacts out there this many has done his homework and is worth, at least, putting on in the background [Andrew Huberman: Huberman Labs Podcast](https://www.youtube.com/watch?v=szqPAPKE5tQ) **
 
-- 📫 How to reach me **stevenhastings@timbrelabs.dev**
+- 📫 How to reach me **stevenhastings@timbrelabs.dev, steven.hastings0321@gmail.com, or just text me. I don't mind. If you're weird I'll just block-contact![image](https://user-images.githubusercontent.com/59450769/180288979-ba812d0a-a580-4953-9702-4127a6aa27b8.png)
+**
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
