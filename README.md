@@ -3,7 +3,7 @@
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
 
-- 🔭 I am currently working on building an ios application (with Windows Virtual Machine) ![image](https://user-images.githubusercontent.com/59450769/180278652-f1e22c7b-d8ac-4c6d-8dae-b29c08337708.png) called Tamber Tapes: (phonetic spelling ["TAM - BER"]) It'll be akin to a Github for Musicians. . . Not Like Splice!!! The main idea is to encourage artists to test themselves against all genre types, randomly and without pause.  If they really posess a musical spirit then they should thrive and hopefully enbolden others of meeker stances to do the same. Music was always meant to be shared. Not just for the listener but for the creator as well. FACE THE MUSIC**
+- 🔭 I am currently working on building an ios application (with Windows Virtual Machine) ![image](https://user-images.githubusercontent.com/59450769/180278652-f1e22c7b-d8ac-4c6d-8dae-b29c08337708.png) called Timbre Tapes: (phonetic spelling ["TAM - BER"]) It'll be akin to a Github for Musicians. . . Not Like Splice!!! The main idea is to encourage artists to test themselves against all genre types, randomly and without pause.  If they really posess a musical spirit then they should thrive and hopefully enbolden others of meeker stances to do the same. Music was always meant to be shared. Not just for the listener but for the creator as well. FACE THE MUSIC**
 
 - 🌱 I’m currently learning about Digital Audio Segmentation Processing (DASP) & Mel-frequency cepstrum coefficients (MFCC): **Learning through building from scratch.**
 
