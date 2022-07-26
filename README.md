@@ -18,7 +18,7 @@
 ### 📫 How to reach me stevenhastings@timbrelabs.dev, steven.hastings0321@gmail.com, or just text me. I don't mind. If you have ill-intentions I'll just block-contact :smirk:
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="steven-hastings-datadays" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/steven-hastings-datadays?trk=profile-badge">Steven Hastings</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="steven-hastings-datadays" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/steven-hastings-datadays?trk=profile-badge">Steven Hastings LinkedIn</a></div>
               
 
 <h3 align="left">Connect with me:</h3>
