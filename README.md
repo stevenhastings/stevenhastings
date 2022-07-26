@@ -15,7 +15,7 @@
 
 ### READING MATERIALS: [Ebbinghaus's Forgetting Curve](https://en.wikipedia.org/wiki/Forgetting_curve), [Hebb's Postulate(1949)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6212519/#:~:text=Hebb's%20(1949)%20theory%20postulated%20that,and%20memory%20as%20studied%20by), and for you "audiodidacts" out there, this man has done his homework. Take a listen: [Andrew Huberman: Huberman Labs Podcast](https://www.youtube.com/watch?v=szqPAPKE5tQ) 
 
-### 📫 How to reach me stevenhastings@timbrelabs.dev, https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-opaque-background/gmail.png steven.hastings0321@gmail.com, or just text me. I don't mind. If you have ill-intentions I'll just block-contact :smirk:
+### 📫 How to reach me stevenhastings@timbrelabs.dev, <a href="steven.hastings0321@gmail.com" target="blank"><img align="center" src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-opaque-background/gmail.png" alt="githasty-0321" height="30" width="40" /></a> , or just text me. I don't mind. If you have ill-intentions I'll just block-contact :smirk:
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="steven-hastings-datadays" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/steven-hastings-datadays?trk=profile-badge">Steven Hastings LinkedIn</a></div>
