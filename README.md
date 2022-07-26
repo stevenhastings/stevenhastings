@@ -27,6 +27,7 @@
 <a href="https://dev.to/timbrelabs.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="timbrelabs.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/stevenh88319547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevenh88319547" height="30" width="40" /></a>
 <a href="https://codesandbox.com/stevenhastings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stevenhastings" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/steven-hastings-datadays/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="stevenhastings" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
