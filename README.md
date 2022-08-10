@@ -1,4 +1,5 @@
-![Welcome to GitHub](https://raw.githubusercontent.com/stevenhastings/stevenhastings/main/Welcome%20to%20the%20Github.gif)
+![Welcome to the Github(DARKER)](https://user-images.githubusercontent.com/59450769/183899620-bc1ac0cf-5bfc-432d-a3bd-0885215dbf9a.gif)
+
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
 
