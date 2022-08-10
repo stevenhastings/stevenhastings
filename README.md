@@ -1,4 +1,5 @@
-![Welcome to the Github(DARKER)](https://user-images.githubusercontent.com/59450769/183899620-bc1ac0cf-5bfc-432d-a3bd-0885215dbf9a.gif)
+![GoldyLockesGithub (1)](https://user-images.githubusercontent.com/59450769/183900666-0fc3301c-b78d-47f3-9df9-343b5f5db50d.gif)
+
 
 
 <h1 align="center">A Data Science Debutant from the North American Midwest</h1>
