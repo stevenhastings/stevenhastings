@@ -2,16 +2,16 @@
 
 
 
-<h1 align="center">Data Faced</h1>
+<h1 align="center">Data is alive. . . Magic is afoot. . . Data never dies</h1>
 
 
-- 🔭 I am currently working on a project for the non-profit UnderDogDevs. **
+- 🔭 I am in the process of building a more effective model for sound-source separation applied to music.**
 
-- 🌱 I’m currently learning about MongoDB Cloud Essential practices.**
+- 🌱 I’m currently learning about *audio signal processing*, *energy-based models*, and *wavelet transforms* .**
 
-- 👯 Looking to collaborate on anything and everything I can make myself useful on. 
+- 👯 Eventually, I would like to collaborate on a build for a virtual reality music recording application that would allow for a more intuitive and natural way to manipulate sound. 
 
-- 💬 Ask me about anything. 
+- 💬 I am on an audio-kick at the moment, partially because I am a musician and enjoy having some domain knowledge, but my interests do not stop there and I intend to go down many more paths of learning in the future. 
 
 ### 📫 How to reach me stevenhastings@timbrelabs.dev, <a href="steven.hastings0321@gmail.com" target="blank"><img align="center" src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-opaque-background/gmail.png" alt="githasty-0321" height="30" width="40" />steven.hastings0321@gmail.com</a> 
               
