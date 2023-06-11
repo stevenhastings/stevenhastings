@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">A Data Science Debutant from the North American Midwest</h1>
+<h1 align="center">Data Faced</h1>
 
 
 - 🔭 I am currently working on a project for the non-profit UnderDogDevs. **
