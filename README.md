@@ -13,7 +13,7 @@
 
 - 💬 I am on an audio-kick at the moment, partially because I am a musician and enjoy having some domain knowledge, but my interests do not stop there and I intend to go down many more paths of learning in the future. 
 
-### 📫 How to reach me stevenhastings@timbrelabs.dev, <a href="steven.hastings0321@gmail.com" target="blank"><img align="center" src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-opaque-background/gmail.png" alt="githasty-0321" height="30" width="40" />steven.hastings0321@gmail.com</a> 
+### 📫 How to reach me  <a href="steven.hastings0321@gmail.com" target="blank"><img align="center" src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-opaque-background/gmail.png" alt="githasty-0321" height="30" width="40" />steven.hastings0321@gmail.com</a> 
               
 
 <h3 align="left">Connect with me:</h3>
